@@ -24,8 +24,6 @@ Snake::Snake(WINDOW * win, int starty, int startx, char c)
 
 	location[0] = y;
 	location[1] = x;
-	
-	previous_char;
 }
 
 //grow snake
